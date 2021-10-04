@@ -7,11 +7,30 @@
     "build": "next build",
     "start": "next start"
   },
-  "dependencies": {
-    "@emotion/react": "^11.4.1",
-    "@emotion/styled": "^11.3.0",
-    "next": "^11.0.0",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
-  }
+    "dependencies": {
+      "cities": "^2.0.0",
+      "date-fns": "^2.24.0",
+      "fs-extra": "^9.1.0",
+      "gray-matter": "^4.0.3",
+      "mediaelement": "^4.2.16",
+      "prop-types": "^15.7.2",
+      "remark": "^13.0.0",
+      "remark-html": "^13.0.2"  
+  },
+  "description": "Personal website portfolio for [Shane Strachan](https://ssxrs.dev). #ssxrs.dev",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ussshane/ssxrs.dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ussshane/ssxrs.dev/issues"
+  },
+  "homepage": "https://github.com/ussshane/ssxrs.dev#readme"
 }
