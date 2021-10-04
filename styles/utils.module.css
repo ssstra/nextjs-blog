@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;1,100&family=Work+Sans:wght@200&display=swap');
+
+.heading2Xl {
+  font-size: 5.0rem;
+  line-height: 1.2;
+  font-weight: 100;
+  letter-spacing: -.45rem;
+  margin: .5rem 0;
+  text-transform: uppercase;
+  font-family: 'Lato', Arial, sans-serif;
+}
+
+.headingXl {
+  font-size: 4rem;
+  font-family: optima;
+  font-weight: 500;
+  line-height: 4.5rem;
+  text-align: left;
+  letter-spacing: 0.1rem;
+  margin: .5rem -1rem;
+  color: var(--color-text-secondary);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  font-size: 3.5rem;  
+  line-height: 4.5rem;
+  text-align: left;
+  margin-bottom: -0.5rem;
+  background-image: linear-gradient(to right, #f0f0ec, #efefdc, #e2e2d2, #d5d5c9, #c8c8bf, #bab8b0, #aba8a3, #9b9895, #858281, #6f6c6d, #595858, #444444);
+}
+
+.headingXl:hover {
+  text-decoration: none;
+  letter-spacing: -.3rem;
+  transition: letter-spacing 0.4s ease-out;
+}
+
+.title:hover {
+  text-decoration: none;
+  letter-spacing: -.3rem;
+  transition: letter-spacing 0.4s ease-out;
+}
+
+.headingLg {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin: 0rem 0 0rem 0rem;
+  text-transform: lowercase;
+  color: #65bef5;
+}
+
+.headingMd {
+  font-size: 1rem;
+  line-height: 1.4rem;   
+  font-family: Optima, Segoe, Segoe UI, Candara, Calibri;
+  z-index: 1;
+}
+
+.headingMd img {
+  top: 2px !important;
+  left: 2px !important;
+  margin-top: 3px !important;
+}
+
+.borderCircle {
+  border-radius: 9999px;
+}
+
+.colorInherit {
+  color: var(--color-text-secondary);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  background-image: linear-gradient(to right, #fdfce6, #efefdc, #e2e2d2, #d5d5c9, #c8c8bf, #bab8b0, #aba8a3, #9b9895, #858281, #6f6c6d, #595858, #444444);
+  letter-spacing: -.6rem;
+  text-transform: uppercase;
+  font-family: 'Lato', Arial, sans-serif;
+  font-size: 4.0rem;
+  line-height: 1.2;
+  font-weight: 100;
+}
+
+.headingLg a:hover {
+  text-decoration: none;
+  letter-spacing: .1rem;
+  transition: letter-spacing 0.4s ease-out;
+}
+
+.padding1px {
+  padding-top: 1px;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.listItem {
+  margin: 0 0 1.0rem;
+}
+
+.lightText {
+  color: rgb(143, 143, 143);
+}
