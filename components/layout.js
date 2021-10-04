@@ -15,7 +15,7 @@ const Container = styled.div`
   right:2vh;
 `;
 
-const ThemeToggle = dynamic(() => import("../components/ThemeToggle"), {
+const ThemeToggle = dynamic(() => import("./ThemeToggle"), {
   ssr: false,
 });
 
