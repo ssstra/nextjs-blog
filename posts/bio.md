@@ -12,12 +12,11 @@ In addition to web technology, my most recent project involves employing large-s
 macOS Big Sur & Windows 10, Adobe Photoshop/Premiere, VSCode, Firefox & Chrome, RStudio, iTerm, Docker
 
 --------------
+**Programming and markup languages and ORM:** JavaScript, HTML, CSS, SQL *(incl. MySQL, MongoDB)*, R
 
-**Programming and markup languages and ORM:**
-JavaScript, CSS, HTML, SQL, R
-
-**Frameworks, libraries, and engines:**
-React.js (Next, Router, MaterialUI, Admin, Suite), Express.js, Node.js
+**Frequently used frameworks, libraries, and engines:** React.js (Next, Router, MUI, Rebass), Express.js, Node.js, CSSjs: emotion, styled-components
 
 **Languages:**
-English, native speaker; Mandarin Chinese, proficient 在大学的四年学习经历，以及研究经历; Classical Latin, advanced
+- English, native speaker; 
+- Mandarin Chinese, proficient 在大学的四年学习经历，以及研究经历;
+- Classical Latin, advanced
