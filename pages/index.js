@@ -45,12 +45,12 @@ export default function Home({ allPostsData }) {
         <p className="intro">                
         <h1 className="title">&nbsp;<Image
                   priority
-                  src="/images/planet.svg"
+                  src="cplanet.svg"
                   height={31}
                   width={31}
                   alt="planet"
                 />&nbsp;ssxrs.dev</h1>
-        This is the personal index site for <b>Shane Strachan</b> (MA, PhD), a web developer and 
+        This is the personal index site for <b>Shane Strachan</b>, a web developer and 
         researcher based in Washington state. You can read more about my career and qualifications on the Bio
         page below or reach out to my <a href="mailto:ss.inboxes@gmail.com">email</a> with direct enquiries. Thanks for visiting!<br />
         </p>
