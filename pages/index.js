@@ -43,13 +43,7 @@ export default function Home({ allPostsData }) {
     </Container>
       <section className={utilStyles.headingMd}>
         <p className="intro">                
-        <h1 className="title">&nbsp;<Image
-                  priority
-                  src="planet.svg"
-                  height={31}
-                  width={31}
-                  alt="planet"
-                />&nbsp;ssxrs.dev</h1>
+        <h1 className="title">&nbsp;ssxrs.dev</h1>
         This is the personal index site for <b>Shane Strachan</b>, a JavaScript engineer and 
         researcher based in Washington state. You can read more about my career and qualifications on the Bio
         page below or reach out to my <a href="mailto:ss.inboxes@gmail.com">email</a> with direct enquiries. Thanks for visiting!<br />
